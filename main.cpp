@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cstring>
 
+using namespase std;
+
 int min_port;
 int max_port;
 
